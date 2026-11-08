@@ -14,7 +14,6 @@
 
 * **Company:** TUSK INNOVATIONS GLOBAL PRIVATE LIMITED
 * **Founder & CEO:** Nijo Ponnachan
-* **CTO:** Anjai Itty Jacob
 * **GitHub Profile:** [https://github.com/NijoP](https://github.com/NijoP)
 * **Repository:** [https://github.com/NijoP/electronics-agent-kit-proto](https://github.com/NijoP/electronics-agent-kit-proto)
 
@@ -268,6 +267,5 @@ The project follows a structured, milestone-driven roadmap defined in [`docs/16-
 *Deep-Tech Hardware Engineering Automation Systems*
 
 * **Founder & CEO:** Nijo Ponnachan ([GitHub](https://github.com/NijoP))
-* **CTO:** Anjai Itty Jacob
 * **Project Repository:** [https://github.com/NijoP/electronics-agent-kit-proto](https://github.com/NijoP/electronics-agent-kit-proto)
 * **General & Investor Inquiries:** Contact via official company channels and GitHub organization portal.
